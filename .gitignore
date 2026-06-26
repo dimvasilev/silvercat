@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+data/
+models/
+*.joblib
+*.pkl
+*.pickle
+*.parquet
+reports/*.html
+reports/*.pdf
+.DS_Store

@@ -1,0 +1,11 @@
+joblib
+numpy
+pandas
+pyarrow
+scikit-learn
+xgboost
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+jupytext
