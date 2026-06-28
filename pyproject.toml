@@ -12,6 +12,7 @@ dependencies = [
     "joblib>=1.5.3",
     "jupyterlab>=4.6.0",
     "jupytext>=1.19.4",
+    "kagglehub>=1.0.2",
     "matplotlib>=3.11.0",
     "numpy>=2.4.6",
     "pandas>=3.0.3",
